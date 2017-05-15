@@ -21,6 +21,6 @@ public class TP1_EJ2 {
         System.out.println("ingrese el valor del radio: ");
         double radio = entrada.nextDouble();
         area = radio * radio * 3.14159;
-        System.out.println("el area de dicho circulo con radio "+ radio + " es "+ area);
+        System.out.println("el area del circulo con radio "+ radio + " es "+ area);
     }
 }
